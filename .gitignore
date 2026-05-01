@@ -1,0 +1,57 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+.Python
+*.egg-info/
+.ipynb_checkpoints/
+
+# --- Jupyter ---
+*.ipynb_checkpoints
+.jupyter/
+
+# --- Data files (do NOT commit raw data) ---
+# Keep small sample data in data/sample/ if needed, ignore the rest
+data/raw/
+data/interim/
+data/processed/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.db
+*.sqlite
+*.sqlite3
+# Allow sample/example data
+!**/data/sample/**
+!**/data/example/**
+!**/README.csv
+
+# --- BI tool artefacts ---
+*.pbix.bak
+*.twb.bak
+*.twbx.bak
+~$*
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Secrets / credentials ---
+.env
+.env.local
+*.pem
+*.key
+config/secrets.yml
+credentials.json
