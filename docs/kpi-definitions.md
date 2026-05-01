@@ -30,4 +30,4 @@ A reference doc I keep updated. Half the value in any analysis is locking down d
 
 ---
 
-*Add definitions for any KPI you use in a project, in this doc, before writing the SQL. Future-you will thank present-you.*
+
