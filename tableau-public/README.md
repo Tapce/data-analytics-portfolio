@@ -4,7 +4,7 @@ Published dashboards live on my Tableau Public profile:
 
 ## Dashboards
 
-*[Add entries here as you publish, e.g.]*
+
 
 ### Supply Chain OTIF Monitor
 - **Live link:** [Tableau Public URL]
