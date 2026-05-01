@@ -52,7 +52,7 @@ Operational dashboard tracking pick accuracy, order fulfilment, lead times, and 
 ## Get in Touch
 
 - **LinkedIn:** [linkedin.com/in/blessed-tapiwa-dongo](https://www.linkedin.com/in/blessed-tapiwa-dongo)
-- **Email:** [add your email]
-- **Location:** Southampton, UK
+- **Email:** blessed.tapce@gmail.com
+- **Location:** UK
 
 Open to Data Analyst, Senior Data Analyst, BI Analyst, and Insight Analyst roles in the UK or remote.
