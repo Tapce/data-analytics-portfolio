@@ -18,14 +18,14 @@ I bridge the gap between operational reality and analytical rigour. Before becom
 ## Featured Projects
 
 ### [01 — Supply Chain OTIF & Stock Accuracy Analysis](./projects/01-supply-chain-otif-analysis)
-End-to-end analysis of on-time-in-full (OTIF) performance and inventory accuracy across a multi-supplier distribution operation. SQL-based investigation, root-cause analysis, and a Power BI dashboard for ongoing monitoring.
+End-to-end analysis of on-time-in-full (OTIF) performance and inventory accuracy across a multi-supplier distribution operation: SQL investigation, root-cause segmentation, and recommendations sized against the failures they address. Finds an 83.8%-vs-95% OTIF miss concentrated in one degraded supplier, a produce short-shipping problem, and a self-inflicted Friday receiving bottleneck.
 
-**Stack:** SQL · Power BI · Excel
-**Skills demonstrated:** KPI design, variance analysis, supplier performance reporting, dashboard development
+**Stack:** SQL · Python (pandas, matplotlib) · DuckDB
+**Skills demonstrated:** KPI design, variance analysis, root-cause segmentation, supplier performance reporting
 
 ---
 
-### [02 — Merchant Performance & Forecasting](./projects/02-merchant-performance-analysis)
+### [02 — Merchant Performance & Forecasting](./projects/02-merchant-performance-analysis) *(in progress)*
 Replicates the kind of merchant analytics work I led at IMB Financial Services — weekly performance review automation, trend identification, and a forecasting model linking operational drivers to financial outcomes.
 
 **Stack:** SQL · Python · Tableau
@@ -33,7 +33,7 @@ Replicates the kind of merchant analytics work I led at IMB Financial Services �
 
 ---
 
-### [03 — Warehouse KPI Dashboard](./projects/03-warehouse-kpi-dashboard)
+### [03 — Warehouse KPI Dashboard](./projects/03-warehouse-kpi-dashboard) *(in progress)*
 Operational dashboard tracking pick accuracy, order fulfilment, lead times, and labour productivity — built for the warehouse floor, not the boardroom.
 
 **Stack:** SQL · Power BI

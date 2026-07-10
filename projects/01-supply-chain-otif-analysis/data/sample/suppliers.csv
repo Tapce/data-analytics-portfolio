@@ -1,0 +1,41 @@
+supplier_id,supplier_name,supplier_tier,category,country
+SUP-001,Meridian Fresh Produce,1,Produce,United Kingdom
+SUP-002,Albion Chilled Logistics,1,Chilled,United Kingdom
+SUP-003,Harrogate Fine Foods,1,Ambient,Netherlands
+SUP-004,Polar Crest Frozen,1,Frozen,United Kingdom
+SUP-005,Wexford Dairy Partners,1,Chilled,Spain
+SUP-006,Stonebridge Provisions,1,Ambient,United Kingdom
+SUP-007,Caldera Packaging Group,1,Packaging,United Kingdom
+SUP-008,Northgate Produce Co,1,Produce,United Kingdom
+SUP-009,Bramley & Finch,2,Ambient,United Kingdom
+SUP-010,Tidewater Seafoods,2,Chilled,United Kingdom
+SUP-011,Ashcombe Orchards,2,Produce,France
+SUP-012,Redmoor Bakery Supplies,2,Ambient,Spain
+SUP-013,Glacier Point Foods,2,Frozen,United Kingdom
+SUP-014,Silverbeck Beverages,2,Ambient,United Kingdom
+SUP-015,Foxglove Farm Foods,2,Produce,United Kingdom
+SUP-016,Kestrel Cold Chain,2,Frozen,United Kingdom
+SUP-017,Marlowe Ingredients,2,Ambient,Ireland
+SUP-018,Dunmore Creamery,2,Chilled,United Kingdom
+SUP-019,Hartfield Pack Solutions,2,Packaging,United Kingdom
+SUP-020,Ombersley Growers,2,Produce,Spain
+SUP-021,Larkspur Foods,2,Ambient,Spain
+SUP-022,Cromwell Frozen Goods,2,Frozen,United Kingdom
+SUP-023,Bellweather Dairy,2,Chilled,United Kingdom
+SUP-024,Tarn Valley Produce,3,Produce,United Kingdom
+SUP-025,Elmsworth Trading,3,Ambient,United Kingdom
+SUP-026,Quayside Fish Merchants,3,Chilled,United Kingdom
+SUP-027,Birchall & Sons,3,Ambient,United Kingdom
+SUP-028,Mosswood Farm,3,Produce,France
+SUP-029,Arden Vale Foods,3,Ambient,United Kingdom
+SUP-030,Setter Ridge Frozen,3,Frozen,United Kingdom
+SUP-031,Copperfield Supplies,3,Packaging,United Kingdom
+SUP-032,Nettlebed Growers,3,Produce,United Kingdom
+SUP-033,Wharfedale Provisions,3,Ambient,United Kingdom
+SUP-034,Saltmarsh Foods,3,Chilled,United Kingdom
+SUP-035,Ivybridge Trading Co,3,Ambient,United Kingdom
+SUP-036,Penrose Orchard Direct,3,Produce,United Kingdom
+SUP-037,Gullwing Seafood,3,Chilled,United Kingdom
+SUP-038,Thornbury Pack & Print,3,Packaging,Spain
+SUP-039,Eastholme Farm Foods,3,Produce,United Kingdom
+SUP-040,Ravenscar Frozen Foods,3,Frozen,Spain
