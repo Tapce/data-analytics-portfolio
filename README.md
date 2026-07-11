@@ -25,11 +25,11 @@ End-to-end analysis of on-time-in-full (OTIF) performance and inventory accuracy
 
 ---
 
-### [02 — Merchant Performance & Forecasting](./projects/02-merchant-performance-analysis) *(in progress)*
-Replicates the kind of merchant analytics work I led at IMB Financial Services — weekly performance review automation, trend identification, and a forecasting model linking operational drivers to financial outcomes.
+### [02 — Merchant Performance & Forecasting](./projects/02-merchant-performance-analysis)
+Churn early-warning and revenue forecasting for a merchant-acquiring portfolio, replicating work I led at IMB Financial Services. A decline-rate rule that catches 21 of 22 merchant churns a median of 2 months early (0.6% false-alarm rate), plus a Holt-Winters revenue forecast backtested to 3.1% MAPE before being trusted with the future.
 
-**Stack:** SQL · Python · Tableau
-**Skills demonstrated:** Financial modelling, forecasting, performance reporting, executive-ready visualisation
+**Stack:** SQL · Python (pandas, statsmodels) · DuckDB
+**Skills demonstrated:** Forecasting & backtesting, early-warning design, cohort analysis, performance reporting
 
 ---
 
