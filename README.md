@@ -33,11 +33,11 @@ Churn early-warning and revenue forecasting for a merchant-acquiring portfolio, 
 
 ---
 
-### [03 — Warehouse KPI Dashboard](./projects/03-warehouse-kpi-dashboard) *(in progress)*
-Operational dashboard tracking pick accuracy, order fulfilment, lead times, and labour productivity — built for the warehouse floor, not the boardroom.
+### [03 — Warehouse KPI Dashboard](./projects/03-warehouse-kpi-dashboard)
+A single-screen operational dashboard built to one brief: can a supervisor walk in at 7am and know what to fix today? Finds two compounding accuracy effects (night shift 1.9×, new starters 1.6×), a speed–accuracy cliff at 120% of normal pick rate, and a Monday fulfilment gap that turns out to be a dock imbalance rather than a picking problem.
 
-**Stack:** SQL · Power BI
-**Skills demonstrated:** Operational KPI definition, dashboard design for non-technical users, data modelling
+**Stack:** SQL · Python (pandas, matplotlib) · DuckDB
+**Skills demonstrated:** Operational KPI definition, dashboard design for non-technical users, data modelling, root-cause segmentation
 
 ---
 
