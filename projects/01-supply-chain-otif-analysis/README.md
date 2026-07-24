@@ -71,5 +71,3 @@ cd ../notebooks && jupyter nbconvert --to notebook --execute --inplace 01_otif_s
 
 - **SQL** — analysis queries (PostgreSQL syntax, executed on DuckDB)
 - **Python** — pandas, matplotlib (data generation + exploratory analysis)
-
-**Next step:** a Power BI weekly-review dashboard built on the same data model.

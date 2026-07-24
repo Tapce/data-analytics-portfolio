@@ -44,7 +44,6 @@ A single-screen operational dashboard built to one brief: can a supervisor walk 
 ## Other Folders
 
 - **[sql-practice](./sql-practice)** — SQL exercises and query patterns I use frequently (window functions, CTEs, performance tuning).
-- **[tableau-public](./tableau-public)** — Links to my published Tableau Public dashboards.
 - **[docs](./docs)** — Notes on methodology, KPI definitions, and reusable analysis frameworks.
 
 ---

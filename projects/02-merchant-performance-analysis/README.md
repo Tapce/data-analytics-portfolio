@@ -59,5 +59,3 @@ cd ../notebooks && jupyter nbconvert --to notebook --execute --inplace 01_mercha
 
 - **SQL** — scorecard, early-warning flags, cohort and concentration analysis (PostgreSQL syntax, executed on DuckDB)
 - **Python** — pandas, statsmodels (Holt-Winters forecasting), matplotlib
-
-**Next step:** a Tableau executive dashboard on the same data model — scorecard, flag list and forecast on one screen.
